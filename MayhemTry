@@ -115,8 +115,8 @@ if executor == "Delta" then
     desc.Text = [[ <font color="#FFD700">Bacon Scripts Hub Instructions</font>.
 1) <font color="#FF0000">DON'T USE</font> random scripts from comments.
 2) Scripts only work on "<font color="#FFD700">public servers</font>", it will direct you to script servers.
-3) Click "<font color="#FFD700">Click to Open the script</font>" to run the script loader.
-4) Wait 1-3 seconds for the scripts to appear on your screen and choose which script you would like to run. ]]
+3) Choose "<font color="#FFD700">Click to Open the script</font>" to run the script loader.
+4) Once you are transferred to script servers, re-execute the script and it will run properly. ]]
     desc.RichText = true
 
     -- Button Container
