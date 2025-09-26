@@ -116,8 +116,8 @@ if executor == "Delta" then
 1) Tap the Delta icon at the top.
 2) Open Settings (gear icon).
 3) Turn <font color="#FF0000">OFF</font> the "<font color="#FFD700">Anti-Scam</font>" & "<font color="#FFD700">Verify Teleport</font>" option.
-4) Click "<font color="#FFD700">Rejoin</font>" and "<font color="#FFD700">Re-Execute</font>" the script. ]]
-5) "<font color="#FFD700">ONCE REJOINED</font>", you can now click "<font color="#FFD700">OPEN SCRIPT</font>"
+4) Click "<font color="#FFD700">Rejoin</font>" and "<font color="#FFD700">Re-Execute</font>" the script.
+5) "<font color="#FFD700">ONCE REJOINED</font>", you can now click "<font color="#FFD700">OPEN SCRIPT</font>" ]]
     desc.RichText = true
 
     -- Button Container
